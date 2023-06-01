@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="login.css" />
+    <script src="register.js" defer></script>
+    <title>SIGNUP</title>
+  </head>
+  <body>
+    <div class="register-page">
+      <div class="form">
+        <form action="insertUser.php" method="POST" class="login-form">
+          <input id="id" type="text" name="id" placeholder="아이디" />
+          <input id="name" type="text" name="name" placeholder="이름" />
+          <input id="password" type="password" name="password" placeholder="비밀번호" />
+          <input
+            id="confirm-password"
+            type="password"
+            placeholder="비밀번호 확인"
+          />
+          <input type="submit" id="button" value="SIGN UP" href="#" onclick="location.href='index.html'"></input>
+          <p class="message">
+            계정이 있으신가요?
+            <a href="#" onclick="location.href='index.html'">로그인</a>
+          </p>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
