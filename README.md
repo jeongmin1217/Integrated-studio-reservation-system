@@ -9,10 +9,6 @@
 <사진 클릭하면 유튜브 데모 영상으로 이동합니다>
 
 ## Functions
-<<<<<<< HEAD
-
-=======
->>>>>>> a34f5d4e75af2813f591234946769527390d6e3f
 - 로그인 & 회원가입
 - 유저/사장님 이용 공간 분리
 - 사장님 가게 등록 기능
@@ -20,10 +16,6 @@
 - 유저/사장님 각자에 알맞은 CRUD 작업
 
 ## Architecture
-<<<<<<< HEAD
-
-=======
->>>>>>> a34f5d4e75af2813f591234946769527390d6e3f
 - Front-end : Javascript, HTML, CSS, jQuery
 - Back-end : PHP
 - DB : MySQL
@@ -31,8 +23,4 @@
 - Tools : jEdit, phpMyAdmin, VScode
 
 ## Address
-<<<<<<< HEAD
-
-=======
->>>>>>> a34f5d4e75af2813f591234946769527390d6e3f
 - http://52.54.201.217:3000/login (현재는 닫혀있음)
