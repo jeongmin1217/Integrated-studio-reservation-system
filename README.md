@@ -4,6 +4,7 @@
 **개인프로젝트 : 사진관 통합 예약 시스템**
 
 [![Video Label](http://img.youtube.com/vi/2GozCeLAJeg/0.jpg)](https://youtu.be/2GozCeLAJeg)
+<사진 클릭하면 유튜브 데모 영상으로 이동합니다>
 
 ## Functions
 - 로그인/로그아웃 & 회원가입
