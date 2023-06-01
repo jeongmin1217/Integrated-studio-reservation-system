@@ -8,15 +8,18 @@
 <사진 클릭하면 유튜브 데모 영상으로 이동합니다>
 
 ## Functions
-- 로그인/로그아웃 & 회원가입
-- 게시물, 댓글, 좋아요 등 CRUD 작업
-- 카카오맵 API를 활용한 가입위치 기반 게시물 업로드 지역 제한 (로컬들의 정보를 담고자)
-- 회원가입일로부터 거주 일수 제공을 통한 유저 신뢰성 확보
+- 로그인 & 회원가입
+- 유저/사장님 이용 공간 분리
+- 사장님 가게 등록 기능
+- 유저는 카테고리별 사진관을 한 눈에 보기 가능
+- 유저/사장님 각자에 알맞은 CRUD 작업
 
 ## Architecture
-- Front-end : React, Typescript, Redux
-- DB : Firestore, Firebase realtime-database
-- Cloud & Hosting : Firebase
+- Front-end : Javascript, HTML, CSS, jQuery
+- Back-end : PHP
+- DB : MySQL
+- Cloud & Hosting : 교수님 연구실 서버 대여
+- Tools : jEdit, phpMyAdmin, VScode
 
 ## Address
-- https://localpeople.web.app/
+- http://52.54.201.217:3000/login (현재는 닫혀있음)
