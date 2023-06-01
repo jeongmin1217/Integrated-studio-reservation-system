@@ -1,6 +1,7 @@
 # Integrated-studio-reservation-system
 2022 1st semester database theory and training
-개인프로젝트 : 사진관 통합 예약 시스템
+
+**개인프로젝트 : 사진관 통합 예약 시스템**
 
 [![Video Label](http://img.youtube.com/vi/2GozCeLAJeg/0.jpg)](https://youtu.be/2GozCeLAJeg)
 
